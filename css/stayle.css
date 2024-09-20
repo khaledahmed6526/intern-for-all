@@ -158,7 +158,7 @@
 /* 3.1 HOME SECTION......................................................................................... */
          .home {
              height:100vh;
-             background-image:url(../images/img-header.jpg);
+             background-image:url(../Images/img-header.jpg);
              background-position: bottom;
              background-size:contain ;
              background-size:cover;
